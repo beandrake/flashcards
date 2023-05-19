@@ -1,0 +1,21 @@
+What are the 6 Pillars of the AWS Well-Architected Framework?
+
+Cost Optimization
+Security
+Operational Excellence
+Reliablity
+Performance Efficiency
+Sustainability
+
+
+1 + 1 = ?
+
+2
+
+
+What are the ingredients in a BLT?
+
+Bacon
+Lettuce
+Tomato
+Bread (don't forget this one!)
